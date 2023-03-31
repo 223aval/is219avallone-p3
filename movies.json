@@ -68,5 +68,33 @@
             "likes": 812,
             "dislikes": 101,
             "posterindex": 0
+      },
+      {
+            "title": "House",
+            "iscore": 7.3,
+            "rating": "TV-14",
+            "runtime": 110,
+            "released": [1977, 7, 30],
+            "country": "Japan",
+            "posters": ["img/house.jpg", "img/house2.jpg"],
+            "imdb": "https://www.imdb.com/title/tt0076162",
+            "website": "https://www.uphe.com/schindlers-list",
+            "likes": 913,
+            "dislikes": 114,
+            "posterindex": 0
+      },
+      {
+            "title": "Little Shop of Horrors",
+            "iscore": 7.1,
+            "rating": "PG-13",
+            "runtime": 94,
+            "released": [1986, 12, 19],
+            "country": "USA",
+            "posters": ["img/littleshop.jpg"],
+            "imdb": "https://www.imdb.com/title/tt0091419",
+            "website": "https://www.uphe.com/schindlers-list",
+            "likes": 913,
+            "dislikes": 114,
+            "posterindex": 0
       }
 ]
