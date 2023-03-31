@@ -96,5 +96,19 @@
             "likes": 913,
             "dislikes": 114,
             "posterindex": 0
+      },
+      {
+            "title": "Eraserhead",
+            "iscore": 7.3,
+            "rating": "Not Rated",
+            "runtime": 89,
+            "released": [1977, 3, 19],
+            "country": "USA",
+            "posters": ["img/eraserhead.jpg"],
+            "imdb": "https://www.imdb.com/title/tt0074486",
+            "website": "https://www.uphe.com/schindlers-list",
+            "likes": 808,
+            "dislikes": 125,
+            "posterindex": 0
       }
 ]
